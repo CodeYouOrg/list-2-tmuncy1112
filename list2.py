@@ -10,7 +10,7 @@ def remove_adjacent(nums):
     list = (1, 2, 2, 3)
     del[1]
 
-    return [1, 2, 3]
+    return(list)
 
 
 
